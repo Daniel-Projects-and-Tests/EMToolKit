@@ -1,0 +1,11 @@
+sunpy
+astropy
+aiapy
+ndcube
+numpy
+pandas
+ipython
+ipykernel
+ipywidgets
+ipympl
+matplotlib
